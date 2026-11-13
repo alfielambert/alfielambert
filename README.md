@@ -19,6 +19,7 @@ Before Oiya I co-founded [Lix](https://lix-it.com), a LinkedIn data platform, an
 
 | Project | What it does | Stack |
 |---|---|---|
+| [signal-stack](https://github.com/alfielambert/signal-stack) | Reads every job ad in your market and ranks the companies hiring to solve your problem, with the exact sentence as evidence | Python, Lix API |
 | [linkedin-intent-finder](https://github.com/alfielambert/linkedin-intent-finder) | Finds people posting about your problem on LinkedIn, enriches them and gets verified emails. One run turned 8,663 posts into 517 verified emails | Python, Lix API |
 | [second-brain](https://github.com/alfielambert/second-brain) | Turns evidence from your tools into governed knowledge an AI agent can act on, with provenance for every fact | Python, Claude Code, MCP |
 | [geo-visibility-tool](https://github.com/alfielambert/geo-visibility-tool) | Tracks whether ChatGPT and Claude recommend your brand, and tells you which page to write next | Next.js, Drizzle, OpenRouter, MCP |
